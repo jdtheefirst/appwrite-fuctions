@@ -1,0 +1,9 @@
+{
+    "name": "sms-handler",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+        "africastalking": "^0.6.2",
+        "node-appwrite": "latest"
+    }
+}
